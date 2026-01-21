@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-21T18:25:15.122848+08:00",
-  "total_titles_processed": 1681,
+  "generated_at": "2026-01-21T19:21:49.849688+08:00",
+  "total_titles_processed": 1784,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 129,
+      "match_count": 131,
       "titles": [
         {
           "title": "“格陵兰2026年成为美国领土”！特朗普“深夜”P图：加拿大、委内瑞拉都被划入美国版图",
@@ -103,8 +103,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时41分 ~ 18时25分]"
+          "appearance_count": 12,
+          "time_info": "[11时41分 ~ 19时21分]"
         },
         {
           "title": "特朗普关税威胁不留情面，芬兰总统格外尴尬",
@@ -127,11 +127,12 @@
             12,
             9,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时41分 ~ 18时25分]"
+          "appearance_count": 12,
+          "time_info": "[11时41分 ~ 19时21分]"
         },
         {
           "title": "特朗普：联合国应继续存在，但“和平委员会”或取而代之",
@@ -141,11 +142,12 @@
             20,
             19,
             17,
-            15
+            15,
+            14
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时41分 ~ 18时25分]"
+          "appearance_count": 11,
+          "time_info": "[12时41分 ~ 19时21分]"
         },
         {
           "title": "冯德莱恩回应特朗普：你错了，无论政治还是商业，协议就是协议",
@@ -157,6 +159,31 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时22分 ~ 12时42分]"
+        },
+        {
+          "title": "芬兰总统“出招”：邀特朗普蒸桑拿",
+          "url": "https://news.ifeng.com/c/8q65PAAxlZG",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时29分 ~ 19时21分]"
+        },
+        {
+          "title": "特朗普称“和平委员会”可能取代联合国，中方回应",
+          "url": "https://www.cls.cn/detail/2264936",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时27分 ~ 19时21分]"
         },
         {
           "title": "特朗普称将对法国葡萄酒和香槟征收 200% 的关税，以此迫使马克龙加入「和平委员会」，如何看待此事？",
@@ -181,30 +208,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时31分 ~ 07时19分]"
-        },
-        {
-          "title": "芬兰总统“出招”：邀特朗普蒸桑拿",
-          "url": "https://news.ifeng.com/c/8q65PAAxlZG",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时29分 ~ 18时25分]"
-        },
-        {
-          "title": "特朗普称“和平委员会”可能取代联合国，中方回应",
-          "url": "https://www.cls.cn/detail/2264936",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时27分 ~ 18时25分]"
         },
         {
           "title": "特朗普2.0政府：月月惊奇桩桩怪象",
@@ -299,6 +302,20 @@
           "time_info": "[04时10分 ~ 07时19分]"
         },
         {
+          "title": "特朗普回归后签署「大而美」法案、开启全球贸易战，真的让制造业回归了吗？重塑了美国国内的经济结构吗？",
+          "url": "https://www.zhihu.com/question/1996540321803301777",
+          "source": "知乎",
+          "ranks": [
+            20,
+            18,
+            14,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时27分 ~ 19时21分]"
+        },
+        {
           "title": "美国总统特朗普：我本该获得诺贝尔和平奖。",
           "url": "https://flash.jin10.com/detail/20260121034837826800",
           "source": "金十数据",
@@ -343,6 +360,17 @@
           "time_info": "04时11分"
         },
         {
+          "title": "世界经济论坛：特朗普演讲将按计划于当地时间下午2:30（北京时间晚21:30）开始。",
+          "url": "https://wallstreetcn.com/livenews/3041250",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时21分"
+        },
+        {
           "title": "美国总统特朗普：与委内瑞拉领导人相处融洽。",
           "url": "https://flash.jin10.com/detail/20260121033511635800",
           "source": "金十数据",
@@ -374,19 +402,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时41分"
-        },
-        {
-          "title": "特朗普回归后签署「大而美」法案、开启全球贸易战，真的让制造业回归了吗？重塑了美国国内的经济结构吗？",
-          "url": "https://www.zhihu.com/question/1996540321803301777",
-          "source": "知乎",
-          "ranks": [
-            20,
-            18,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时27分 ~ 18时25分]"
         },
         {
           "title": "美国总统特朗普将参加白宫在美东时间13:00（北京时间02:00）举办的新闻发布会。（CBS）",
@@ -506,8 +521,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时24分 ~ 18时25分]"
+          "appearance_count": 3,
+          "time_info": "[18时24分 ~ 19时21分]"
         },
         {
           "title": "特朗普：不排除以武力夺取格陵兰岛可能性",
@@ -833,7 +848,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时25分"
         },
@@ -1168,6 +1183,17 @@
           "time_info": "05时18分"
         },
         {
+          "title": "城堡基金CEO格里芬：美国总统特朗普试图鼓励美联储推行的宽松货币政策加大了通胀风险。",
+          "url": "https://flash.jin10.com/detail/20260121185148194800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时21分"
+        },
+        {
           "title": "美国总统特朗普：希望最高法院在关税问题上做正确的决定。 福特汽车表现如此出色，全因关税之缘故。",
           "url": "https://wallstreetcn.com/livenews/3040658",
           "source": "华尔街见闻-快讯",
@@ -1500,8 +1526,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[07时19分 ~ 18时25分]"
+          "appearance_count": 15,
+          "time_info": "[07时19分 ~ 19时21分]"
         },
         {
           "title": "格陵兰岛事件升温欧美股市普跌 现货黄金、白银再创新高 | 今夜看点",
@@ -1592,6 +1618,18 @@
           "time_info": "[06时20分 ~ 07时19分]"
         },
         {
+          "title": "寄望达沃斯“降温地缘局势”，美股指期货齐涨，拼多多盘前涨7%，黄金新高后回落，日债大幅反弹",
+          "url": "https://wallstreetcn.com/articles/3763768",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时24分 ~ 19时21分]"
+        },
+        {
           "title": "纽约期银涨6.7%，美股盘前刷新历史高位，逼近96美元",
           "url": "https://wallstreetcn.com/livenews/3040696",
           "source": "华尔街见闻-快讯",
@@ -1626,17 +1664,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时27分 ~ 17时30分]"
-        },
-        {
-          "title": "寄望达沃斯“降温地缘局势”，美股指期货齐涨，拼多多盘前涨7%，黄金新高后回落，日债大幅反弹",
-          "url": "https://wallstreetcn.com/articles/3763768",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时24分 ~ 18时25分]"
         },
         {
           "title": "全球科技股指数ETF收跌将近3%，领跌美股行业ETF",
@@ -1774,7 +1801,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时25分"
         },
@@ -1820,7 +1847,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时25分"
         },
@@ -1910,6 +1937,21 @@
           "time_info": "[00时31分 ~ 09时23分]"
         },
         {
+          "title": "如何评价黄金价格史上首次突破 4800 美元 / 盎司，后面还会再继续涨吗？",
+          "url": "https://www.zhihu.com/question/1997239169450260384",
+          "source": "知乎",
+          "ranks": [
+            13,
+            7,
+            9,
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时25分 ~ 19时21分]"
+        },
+        {
           "title": "瑞银：金价上半年或冲击5000美元",
           "url": "https://www.toutiao.com/trending/7597626980922330665/",
           "source": "今日头条",
@@ -1919,20 +1961,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时41分 ~ 12时42分]"
-        },
-        {
-          "title": "如何评价黄金价格史上首次突破 4800 美元 / 盎司，后面还会再继续涨吗？",
-          "url": "https://www.zhihu.com/question/1997239169450260384",
-          "source": "知乎",
-          "ranks": [
-            13,
-            7,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时25分 ~ 18时25分]"
         },
         {
           "title": "机构称金价上半年或冲击5000美元",
@@ -2000,6 +2028,112 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时25分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "贝森特“安抚”市场：欧洲抛售美债是“虚假叙事”，最早下周公布新美联储主席",
+          "url": "https://wallstreetcn.com/articles/3763688",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            7,
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 23,
+          "time_info": "[00时31分 ~ 19时21分]"
+        },
+        {
+          "title": "丹麦养老基金AkademikerPension拟清仓美债，称美国信用风险“不可忽视”",
+          "url": "https://wallstreetcn.com/articles/3763734",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 17,
+          "time_info": "[06时19分 ~ 19时21分]"
+        },
+        {
+          "title": "美债日债领跌！格陵兰危机与财政压力引发全球债市抛售潮",
+          "url": "https://wallstreetcn.com/articles/3763671",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[00时31分 ~ 14时31分]"
+        },
+        {
+          "title": "德国商业银行CEO：格陵兰争端下客户态度谨慎 但未听说有意抛美债",
+          "url": "https://wallstreetcn.com/livenews/3041253",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时21分"
+        },
+        {
+          "title": "30年期美债收益率涨超7.9个基点",
+          "url": "https://wallstreetcn.com/livenews/3040666",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时18分"
+        },
+        {
+          "title": "市场分析：投资者正在抛售美元、美债 转而买入黄金",
+          "url": "https://flash.jin10.com/detail/20260121111537191800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时41分"
+        },
+        {
+          "title": "法兴银行：三大因素塑造推动美债走势的 “完美风暴”",
+          "url": "https://flash.jin10.com/detail/20260121105513963800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时41分"
+        },
+        {
+          "title": "贝森特称日本国债抛售潮外溢至美债市场，已与日方对口官员沟通",
+          "url": "https://wallstreetcn.com/livenews/3040562",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时31分"
         }
       ]
     },
@@ -2100,101 +2234,6 @@
       ]
     },
     {
-      "keyword_group": "美债",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "贝森特“安抚”市场：欧洲抛售美债是“虚假叙事”，最早下周公布新美联储主席",
-          "url": "https://wallstreetcn.com/articles/3763688",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            7,
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时31分 ~ 18时25分]"
-        },
-        {
-          "title": "丹麦养老基金AkademikerPension拟清仓美债，称美国信用风险“不可忽视”",
-          "url": "https://wallstreetcn.com/articles/3763734",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[06时19分 ~ 18时25分]"
-        },
-        {
-          "title": "美债日债领跌！格陵兰危机与财政压力引发全球债市抛售潮",
-          "url": "https://wallstreetcn.com/articles/3763671",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时31分 ~ 14时31分]"
-        },
-        {
-          "title": "30年期美债收益率涨超7.9个基点",
-          "url": "https://wallstreetcn.com/livenews/3040666",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时18分"
-        },
-        {
-          "title": "市场分析：投资者正在抛售美元、美债 转而买入黄金",
-          "url": "https://flash.jin10.com/detail/20260121111537191800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时41分"
-        },
-        {
-          "title": "法兴银行：三大因素塑造推动美债走势的 “完美风暴”",
-          "url": "https://flash.jin10.com/detail/20260121105513963800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时41分"
-        },
-        {
-          "title": "贝森特称日本国债抛售潮外溢至美债市场，已与日方对口官员沟通",
-          "url": "https://wallstreetcn.com/livenews/3040562",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美元",
       "match_count": 3,
       "titles": [
@@ -2252,8 +2291,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时41分 ~ 18时25分]"
+          "appearance_count": 12,
+          "time_info": "[11时41分 ~ 19时21分]"
         }
       ]
     },
