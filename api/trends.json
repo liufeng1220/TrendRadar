@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-29T19:29:06.893323+08:00",
-  "total_titles_processed": 1874,
+  "generated_at": "2026-01-29T20:47:44.294858+08:00",
+  "total_titles_processed": 1977,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 52,
+      "match_count": 53,
       "titles": [
         {
           "title": "特朗普：一支庞大的舰队正前往伊朗",
@@ -123,8 +123,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[13时40分 ~ 19时29分]"
+          "appearance_count": 13,
+          "time_info": "[13时40分 ~ 20时47分]"
         },
         {
           "title": "特朗普被曝“正考虑对伊朗发动新的重大打击”",
@@ -148,11 +148,23 @@
           "ranks": [
             15,
             14,
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时38分 ~ 19时29分]"
+          "appearance_count": 7,
+          "time_info": "[17时38分 ~ 20时47分]"
+        },
+        {
+          "title": "特朗普升级对伊施压，布油重回70美元，白银冲上120后回落，黄金突破5500，美元持续下挫",
+          "url": "https://wallstreetcn.com/articles/3764423",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时32分 ~ 20时47分]"
         },
         {
           "title": "美国总统特朗普称赞英伟达为“特朗普账户”捐款。",
@@ -164,17 +176,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时29分"
-        },
-        {
-          "title": "特朗普升级对伊施压，布油重回70美元，白银冲上120后回落，黄金突破5500，美元持续下挫",
-          "url": "https://wallstreetcn.com/articles/3764423",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时32分 ~ 19时29分]"
         },
         {
           "title": "美国总统特朗普结束在“特朗普账号”活动上的发言。",
@@ -573,6 +574,17 @@
           "time_info": "00时32分"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-01-29）",
+          "url": "https://flash.jin10.com/detail/20260129200059103800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时47分"
+        },
+        {
           "title": "特朗普再次暗示不会提名哈塞特执掌美联储",
           "url": "https://flash.jin10.com/detail/20260129010926070800",
           "source": "金十数据",
@@ -825,6 +837,18 @@
           "time_info": "[09时42分 ~ 12时05分]"
         },
         {
+          "title": "评论员：伊朗数千枚导弹待命迎战",
+          "url": "https://www.toutiao.com/trending/7600705793888882186/",
+          "source": "今日头条",
+          "ranks": [
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时28分 ~ 20时47分]"
+        },
+        {
           "title": "关键时刻 伊朗接收俄制武装直升机",
           "url": "https://www.baidu.com/s?wd=%E5%85%B3%E9%94%AE%E6%97%B6%E5%88%BB+%E4%BC%8A%E6%9C%97%E6%8E%A5%E6%94%B6%E4%BF%84%E5%88%B6%E6%AD%A6%E8%A3%85%E7%9B%B4%E5%8D%87%E6%9C%BA",
           "source": "百度热搜",
@@ -847,17 +871,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[14时41分 ~ 15时39分]"
-        },
-        {
-          "title": "评论员：伊朗数千枚导弹待命迎战",
-          "url": "https://www.toutiao.com/trending/7600705793888882186/",
-          "source": "今日头条",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时28分 ~ 19时29分]"
         },
         {
           "title": "伊朗外交部长阿拉奇：伊朗武装部队已严阵以待，手指扣在扳机上，随时准备对任何“侵略”作出回应。",
@@ -954,7 +967,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时29分"
         },
@@ -965,7 +978,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时29分"
         },
@@ -1006,7 +1019,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 26,
+      "match_count": 29,
       "titles": [
         {
           "title": "美股“七巨头”财报即将亮相：投资者该关注哪些要点？",
@@ -1058,6 +1071,17 @@
           "time_info": "07时23分"
         },
         {
+          "title": "黑石集团(BX.N)美股盘前涨1.1%，四季度利润和收入超出预期。",
+          "url": "https://flash.jin10.com/detail/20260129201634269800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时47分"
+        },
+        {
           "title": "业绩增长不及预期 微软美股盘前下跌",
           "url": "https://flash.jin10.com/detail/20260129181234274800",
           "source": "金十数据",
@@ -1067,6 +1091,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时33分"
+        },
+        {
+          "title": "洛克希德马丁四季度净销售额203亿美元，预估198.5亿美元。 四季度每股收益5.8美元，预期5.86美元，上年同期2.22美元。 四季度营业利润为23.3亿美元，预期22.2亿美元。 洛克希德马丁预计2026年的净销售额775亿美元至800亿美元，市场预估778.9亿美元。 洛克希德马丁预计2026年每股收益29.35美元至30.25美元，市场预估29.09美元。 洛克希德马丁预计2026年自由现金流65亿至68亿美元，预期61.6亿美元。 洛克希德马丁美股盘前涨超4%。",
+          "url": "https://wallstreetcn.com/livenews/3046473",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时47分"
         },
         {
           "title": "特斯拉美股盘后快速回吐涨幅，该公司称2026年资本开支将超200亿美元。",
@@ -1113,17 +1148,6 @@
           "time_info": "06时23分"
         },
         {
-          "title": "陶氏化学第四季度净销售额94.6亿美元，预期95亿美元。 第四季度调整后运营每股亏损0.34美元，去年同期为盈亏平衡。 第四季度调整后运营EBITDA为7.41亿美元，预期6.644亿美元。 陶氏化学美股盘前涨超3%。",
-          "url": "https://wallstreetcn.com/livenews/3046431",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时29分"
-        },
-        {
           "title": "美股经纪商Robinhood计划向散户投资者寻求部分SpaceX的股票。该公司争取在SpaceX首次公开募股（IPO）中占据重要零售席位。",
           "url": "https://flash.jin10.com/detail/20260129051658551800",
           "source": "金十数据",
@@ -1134,6 +1158,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时27分 ~ 06时23分]"
+        },
+        {
+          "title": "陶氏化学第四季度净销售额94.6亿美元，预期95亿美元。 第四季度调整后运营每股亏损0.34美元，去年同期为盈亏平衡。 第四季度调整后运营EBITDA为7.41亿美元，预期6.644亿美元。 陶氏化学美股盘前涨超3%。",
+          "url": "https://wallstreetcn.com/livenews/3046431",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时29分 ~ 20时47分]"
         },
         {
           "title": "周三（1月28日）美股尾盘，彭博电动汽车价格回报指数涨0.63%，报3711.30点，亚太时段出现V形反转行情，日内大部分时候高位震荡。 成分股Olectra Greentech涨超10%，EVgo涨8.7%，港股理想汽车收涨4.9%、蔚来集团收涨3.98%表现第四，美国雅宝目前跌5.1%表现倒数第二，Solid Power跌7.6%。",
@@ -1269,6 +1305,17 @@
           "time_info": "17时39分"
         },
         {
+          "title": "卡特彼勒公司第四季度营收191.3亿美元，预估179.1亿美元。 第四季度调整后每股收益5.16美元，预估4.69美元。 第四季度每股收益5.12美元，上年同期5.78美元。 第四季度调整后运营收益29.8亿美元，预估27.6亿美元。 第四季度机械、能源与交通业务营收182.0亿美元。 卡特彼勒美股盘前涨近5%。",
+          "url": "https://wallstreetcn.com/livenews/3046443",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时47分"
+        },
+        {
           "title": "美股收盘：三大股指涨跌不一 英特尔涨11%",
           "url": "https://flash.jin10.com/detail/20260129050049767800",
           "source": "金十数据",
@@ -1387,8 +1434,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时32分 ~ 19时29分]"
+          "appearance_count": 27,
+          "time_info": "[00时32分 ~ 20时47分]"
         },
         {
           "title": "金价暴涨女子卖300克黄金变现30万",
@@ -1432,11 +1479,12 @@
           "url": "https://wallstreetcn.com/livenews/3046433",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时29分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时29分 ~ 20时47分]"
         },
         {
           "title": "高盛：上调今明两年金价预测",
@@ -1451,6 +1499,18 @@
           "time_info": "[18时32分 ~ 19时29分]"
         },
         {
+          "title": "金价上涨的第一批受害者出现了",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E4%B8%8A%E6%B6%A8%E7%9A%84%E7%AC%AC%E4%B8%80%E6%89%B9%E5%8F%97%E5%AE%B3%E8%80%85%E5%87%BA%E7%8E%B0%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时28分 ~ 20时47分]"
+        },
+        {
           "title": "金价",
           "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=22&Refer=top",
           "source": "微博",
@@ -1461,17 +1521,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时23分 ~ 09时43分]"
-        },
-        {
-          "title": "金价上涨的第一批受害者出现了",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E4%B8%8A%E6%B6%A8%E7%9A%84%E7%AC%AC%E4%B8%80%E6%89%B9%E5%8F%97%E5%AE%B3%E8%80%85%E5%87%BA%E7%8E%B0%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时28分 ~ 19时29分]"
         },
         {
           "title": "金价飙涨消费者把黄金变现",
@@ -1502,7 +1551,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时29分"
         },
@@ -1563,7 +1612,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时29分"
         },
@@ -1605,11 +1654,12 @@
           "ranks": [
             27,
             12,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时38分 ~ 19时29分]"
+          "appearance_count": 7,
+          "time_info": "[17时38分 ~ 20时47分]"
         },
         {
           "title": "谷歌母公司Alphabet美股盘后涨3%，投资者关注Meta业绩报告。",
@@ -1633,11 +1683,12 @@
           "url": "https://www.zhihu.com/question/1994095464539255007",
           "source": "知乎",
           "ranks": [
-            17
+            17,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时28分 ~ 19时29分]"
+          "appearance_count": 3,
+          "time_info": "[19时28分 ~ 20时47分]"
         },
         {
           "title": "英伟达、微软和亚马逊正在商谈向OpenAI投资约600亿美元。亚马逊或将扩大与OpenAI的云服务器租赁协议。（The Information）",
