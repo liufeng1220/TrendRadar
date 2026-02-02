@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-02T14:02:13.130868+08:00",
-  "total_titles_processed": 920,
+  "generated_at": "2026-02-02T15:15:44.119844+08:00",
+  "total_titles_processed": 1035,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 26,
+      "match_count": 28,
       "titles": [
         {
           "title": "美法官下令释放被拘5岁男童，抨击特朗普政府：给儿童造成创伤",
@@ -82,6 +82,18 @@
           "time_info": "[00时24分 ~ 07时21分]"
         },
         {
+          "title": "特朗普称能让其他国家付钱，绝口不提欠联合国会费",
+          "url": "https://news.ifeng.com/c/8qPfsxsfg0G",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时22分 ~ 15时15分]"
+        },
+        {
           "title": "美媒曝特朗普计划建造76米巨型凯旋门，白宫回应(图)",
           "url": "https://news.ifeng.com/c/8qOoTOMvfMS",
           "source": "凤凰网",
@@ -94,18 +106,6 @@
           "time_info": "[09时49分 ~ 14时02分]"
         },
         {
-          "title": "特朗普称能让其他国家付钱，绝口不提欠联合国会费",
-          "url": "https://news.ifeng.com/c/8qPfsxsfg0G",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时22分 ~ 14时02分]"
-        },
-        {
           "title": "特朗普给自己提名的美联储主席下马威：小心被起诉",
           "url": "https://news.ifeng.com/c/8qOLT943YcA",
           "source": "凤凰网",
@@ -115,6 +115,18 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时24分 ~ 06时20分]"
+        },
+        {
+          "title": "如果特朗普下令美军入侵加拿大，会怎样？",
+          "url": "https://news.ifeng.com/c/8qPcsjs62Jx",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时22分 ~ 15时15分]"
         },
         {
           "title": "特朗普再次表态：将与古巴达成协议",
@@ -143,16 +155,15 @@
           "time_info": "[04时22分 ~ 07时21分]"
         },
         {
-          "title": "如果特朗普下令美军入侵加拿大，会怎样？",
-          "url": "https://news.ifeng.com/c/8qPcsjs62Jx",
+          "title": "伊朗外长：正在谈判，特朗普足够明智，会做正确决定",
+          "url": "https://news.ifeng.com/c/8qPq0eP3mpg",
           "source": "凤凰网",
           "ranks": [
-            7,
             5
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时22分 ~ 14时02分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时15分"
         },
         {
           "title": "俄罗斯联邦安全委员会副主席梅德韦杰夫：我们始终未发现特朗普提及派往俄近海的两艘核潜艇。",
@@ -193,6 +204,18 @@
           "time_info": "[05时20分 ~ 07时21分]"
         },
         {
+          "title": "特朗普称希望与伊朗“达成协议” 同时警告若谈不拢将动武",
+          "url": "https://www.cls.cn/detail/2277005",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时22分 ~ 15时15分]"
+        },
+        {
           "title": "俄罗斯联邦安全委员会副主席梅德韦杰夫：在美国总统特朗普领导下，与美国的接触已变得高效得多。在所谓“特朗普混乱”背后，他是一位高效且富有创造力的美国领导人。",
           "url": "https://flash.jin10.com/detail/20260201190211010800",
           "source": "金十数据",
@@ -227,18 +250,6 @@
           "time_info": "[09时49分 ~ 12时22分]"
         },
         {
-          "title": "特朗普称希望与伊朗“达成协议” 同时警告若谈不拢将动武",
-          "url": "https://www.cls.cn/detail/2277005",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时22分 ~ 14时02分]"
-        },
-        {
           "title": "特朗普：原本可解决拖欠联合国会费的问题",
           "url": "https://flash.jin10.com/detail/20260202051310002800",
           "source": "金十数据",
@@ -260,6 +271,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时49分 ~ 09时50分]"
+        },
+        {
+          "title": "超过400名欧盟官员反对特朗普为加沙设立的“和平委员会”，并要求采取紧急行动解决当地的“恶劣状况”。",
+          "url": "https://flash.jin10.com/detail/20260202143523023800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时15分"
         },
         {
           "title": "特朗普再次表态：将与古巴达成协议",
@@ -301,7 +323,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时02分"
         },
@@ -361,6 +383,17 @@
           "time_info": "[00时24分 ~ 07时21分]"
         },
         {
+          "title": "武契奇预判48小时内伊朗将遭到美国袭击",
+          "url": "https://news.ifeng.com/c/8qPlpK894Ls",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时01分 ~ 15时15分]"
+        },
+        {
           "title": "伊朗总统：战争既不符合伊朗也不符合美国利益",
           "url": "https://m.thepaper.cn/newsDetail_forward_32509366",
           "source": "澎湃新闻",
@@ -382,17 +415,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时49分 ~ 09时50分]"
-        },
-        {
-          "title": "武契奇预判48小时内伊朗将遭到美国袭击",
-          "url": "https://news.ifeng.com/c/8qPlpK894Ls",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时01分 ~ 14时02分]"
         },
         {
           "title": "伊朗局势现转机 贵金属原油集体跳水",
@@ -555,7 +577,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时02分"
         },
@@ -574,7 +596,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "金价暴跌，深圳水贝挤满了人，扎堆买金；演员自曝4元/克买的白银，13年前存在银行保险箱忘了，逾期需补交7000多元",
@@ -585,8 +607,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时24分 ~ 14时02分]"
+          "appearance_count": 14,
+          "time_info": "[00时24分 ~ 15时15分]"
         },
         {
           "title": "【早报】金价巨震，银行密集提示风险；两只大牛股今日复牌",
@@ -596,8 +618,21 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时49分 ~ 14时02分]"
+          "appearance_count": 6,
+          "time_info": "[09时49分 ~ 15时15分]"
+        },
+        {
+          "title": "金价“大跳水”？两大投资大佬：黄金才是泡沫而非AI，美元一涨就会破！",
+          "url": "https://www.cls.cn/detail/2277020",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时22分 ~ 15时15分]"
         },
         {
           "title": "男子看金价下跌花20多万买200克",
@@ -613,6 +648,19 @@
           "time_info": "[01时22分 ~ 07时21分]"
         },
         {
+          "title": "男子卖 400 克金得 14 万借朋友，金价大涨后要求按现值还款，这合理吗？法院会如何判决？",
+          "url": "https://www.zhihu.com/question/1999853811821463456",
+          "source": "知乎",
+          "ranks": [
+            20,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时22分 ~ 15时15分]"
+        },
+        {
           "title": "金价暴跌后回收变现火爆",
           "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E6%9A%B4%E8%B7%8C%E5%90%8E%E5%9B%9E%E6%94%B6%E5%8F%98%E7%8E%B0%E7%81%AB%E7%88%86%23&t=31&band_rank=4&Refer=top",
           "source": "微博",
@@ -624,18 +672,6 @@
           "time_info": "07时21分"
         },
         {
-          "title": "金价“大跳水”？两大投资大佬：黄金才是泡沫而非AI，美元一涨就会破！",
-          "url": "https://www.cls.cn/detail/2277020",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时22分 ~ 14时02分]"
-        },
-        {
           "title": "金价",
           "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=12&Refer=top",
           "source": "微博",
@@ -644,20 +680,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时49分 ~ 14时02分]"
-        },
-        {
-          "title": "男子卖 400 克金得 14 万借朋友，金价大涨后要求按现值还款，这合理吗？法院会如何判决？",
-          "url": "https://www.zhihu.com/question/1999853811821463456",
-          "source": "知乎",
-          "ranks": [
-            20,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时22分 ~ 14时02分]"
+          "appearance_count": 5,
+          "time_info": "[09时49分 ~ 15时15分]"
         },
         {
           "title": "金价暴跌后黄金市场挤满顾客",
@@ -668,8 +692,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时22分 ~ 14时02分]"
+          "appearance_count": 4,
+          "time_info": "[12时22分 ~ 15时15分]"
         },
         {
           "title": "金价震荡 多家银行发布风险提示",
@@ -703,6 +727,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时49分 ~ 09时50分]"
+        },
+        {
+          "title": "金价暴跌，刚买的金饰能退吗？",
+          "url": "https://news.ifeng.com/c/8qPhA47Tw2J",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时15分"
+        },
+        {
+          "title": "黄金暴跌为何瑞银却上调金价目标",
+          "url": "https://www.toutiao.com/trending/7602143255571992083/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时15分"
         }
       ]
     },
@@ -760,8 +806,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时24分 ~ 14时02分]"
+          "appearance_count": 12,
+          "time_info": "[00时24分 ~ 15时15分]"
         },
         {
           "title": "黄仁勋：OpenAI邀请英伟达进行高达1000亿美元投资，但千亿美元投资“绝非承诺”。我们将逐步投资OpenAI。",
@@ -774,6 +820,34 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时24分 ~ 06时20分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "10年期美债期货下跌1个点，30年期期货下跌7个点。",
+          "url": "https://flash.jin10.com/detail/20260202070317059800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时21分"
+        },
+        {
+          "title": "巴克莱：预计美债发行量将连续两年“原地踏步”",
+          "url": "https://flash.jin10.com/detail/20260202143057490800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时15分"
         }
       ]
     },
@@ -791,25 +865,25 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时24分 ~ 14时02分]"
+          "appearance_count": 14,
+          "time_info": "[00时24分 ~ 15时15分]"
         }
       ]
     },
     {
-      "keyword_group": "美债",
+      "keyword_group": "黄金",
       "match_count": 1,
       "titles": [
         {
-          "title": "10年期美债期货下跌1个点，30年期期货下跌7个点。",
-          "url": "https://flash.jin10.com/detail/20260202070317059800",
+          "title": "泰国期货交易所：黄金在线期货每日价格波动幅度将扩大至最新结算价的±20%。",
+          "url": "https://flash.jin10.com/detail/20260202142855006800",
           "source": "金十数据",
           "ranks": [
-            7
+            20
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时21分"
+          "time_info": "15时15分"
         }
       ]
     },
