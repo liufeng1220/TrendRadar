@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-06T15:44:24.986749+08:00",
-  "total_titles_processed": 1345,
+  "generated_at": "2026-02-06T16:37:36.096598+08:00",
+  "total_titles_processed": 1440,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 38,
+      "match_count": 40,
       "titles": [
         {
           "title": "美俄唯一核军控条约失效，特朗普：不如谈个新的",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时45分 ~ 15时44分]"
+          "appearance_count": 9,
+          "time_info": "[09时45分 ~ 16时37分]"
         },
         {
           "title": "日本大选前，特朗普发文支持高市",
@@ -32,6 +32,20 @@
           "time_info": "[12时11分 ~ 15时44分]"
         },
         {
+          "title": "波斯湾浪急与马斯喀特和谈之间：特朗普背后的以色列踪影",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32540970",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            7,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时11分 ~ 16时37分]"
+        },
+        {
           "title": "是否谋求第三任期？特朗普：告诉你就太无聊了",
           "url": "https://news.ifeng.com/c/8qUsyGpiCYu",
           "source": "凤凰网",
@@ -43,17 +57,15 @@
           "time_info": "[00时42分 ~ 07时20分]"
         },
         {
-          "title": "波斯湾浪急与马斯喀特和谈之间：特朗普背后的以色列踪影",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32540970",
-          "source": "澎湃新闻",
+          "title": "中方回应特朗普公开支持高市早苗",
+          "url": "https://news.ifeng.com/c/8qWaGQvtmJo",
+          "source": "凤凰网",
           "ranks": [
-            11,
-            7,
-            4
+            1
           ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时11分 ~ 15时44分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时37分"
         },
         {
           "title": "美媒爆：特朗普提议以自己名字命名杜勒斯机场和纽约宾州车站换取解冻项目资金，遭舒默拒绝",
@@ -73,7 +85,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时44分"
         },
@@ -282,6 +294,17 @@
           "time_info": "[02时43分 ~ 03时36分]"
         },
         {
+          "title": "外交部回应特朗普支持高市赢得大选",
+          "url": "https://www.toutiao.com/trending/7603649349884759562/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时37分"
+        },
+        {
           "title": "唐宁街发言人：英国首相斯塔默与美国总统特朗普一致认为，达成一项协议以确保在迪戈加西亚岛建立英美联合基地至关重要，而该基地对双方共同的安全利益依然至关重要。",
           "url": "https://flash.jin10.com/detail/20260206022526998800",
           "source": "金十数据",
@@ -483,11 +506,35 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时11分 ~ 15时44分]"
+          "appearance_count": 8,
+          "time_info": "[12时11分 ~ 16时37分]"
+        },
+        {
+          "title": "中方阐明在伊朗问题上的原则立场",
+          "url": "https://news.ifeng.com/c/8qWWGUvFTRt",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时48分 ~ 16时37分]"
+        },
+        {
+          "title": "贝森特：看到伊朗啥样了吧，我们干的",
+          "url": "https://news.ifeng.com/c/8qWIKuTzdj9",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时44分 ~ 16时37分]"
         },
         {
           "title": "伊朗最高领袖政治顾问沙姆哈尼获任国防委员会秘书",
@@ -540,18 +587,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时44分"
-        },
-        {
-          "title": "贝森特：看到伊朗啥样了吧，我们干的",
-          "url": "https://news.ifeng.com/c/8qWIKuTzdj9",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时44分"
         },
@@ -627,17 +663,6 @@
           "time_info": "[12时11分 ~ 13时51分]"
         },
         {
-          "title": "中方阐明在伊朗问题上的原则立场",
-          "url": "https://news.ifeng.com/c/8qWWGUvFTRt",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时48分 ~ 15时44分]"
-        },
-        {
           "title": "伊朗外长阿拉格齐抵达阿曼。",
           "url": "https://flash.jin10.com/detail/20260206044050086800",
           "source": "金十数据",
@@ -692,7 +717,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时44分"
         },
@@ -1172,8 +1197,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时45分 ~ 15时44分]"
+          "appearance_count": 9,
+          "time_info": "[09时45分 ~ 16时37分]"
         }
       ]
     },
@@ -1189,8 +1214,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时45分 ~ 15时44分]"
+          "appearance_count": 9,
+          "time_info": "[09时45分 ~ 16时37分]"
         },
         {
           "title": "两年期美债收益率跌超8个基点",
@@ -1222,7 +1247,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时44分"
         }
@@ -1239,7 +1264,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时44分"
         },
