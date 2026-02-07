@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-07T12:05:43.031703+08:00",
-  "total_titles_processed": 915,
+  "generated_at": "2026-02-07T13:39:32.464308+08:00",
+  "total_titles_processed": 994,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 53,
+      "match_count": 54,
       "titles": [
         {
           "title": "美俄唯一核军控条约失效，特朗普：不如谈个新的",
@@ -84,6 +84,40 @@
           "time_info": "[00时39分 ~ 00时40分]"
         },
         {
+          "title": "舒默否认提议用特朗普命名宾州车站",
+          "url": "https://flash.jin10.com/detail/20260207113549639800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时05分 ~ 13时39分]"
+        },
+        {
+          "title": "特朗普：下周将再与伊朗谈判",
+          "url": "https://news.ifeng.com/c/8qXmcNhCn2E",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时05分 ~ 13时39分]"
+        },
+        {
+          "title": "特朗普签署行政命令，对与伊朗有贸易往来的国家征收关税",
+          "url": "https://www.cls.cn/detail/2283610",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时05分 ~ 13时39分]"
+        },
+        {
           "title": "阿根廷外长：特朗普和米莱将继续探讨降低阿根廷铝材和钢材关税的问题。",
           "url": "https://flash.jin10.com/detail/20260207010853247800",
           "source": "金十数据",
@@ -93,39 +127,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时39分"
-        },
-        {
-          "title": "舒默否认提议用特朗普命名宾州车站",
-          "url": "https://flash.jin10.com/detail/20260207113549639800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时05分"
-        },
-        {
-          "title": "特朗普：下周将再与伊朗谈判",
-          "url": "https://news.ifeng.com/c/8qXmcNhCn2E",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时05分"
-        },
-        {
-          "title": "特朗普签署行政命令，对与伊朗有贸易往来的国家征收关税",
-          "url": "https://www.cls.cn/detail/2283610",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时05分"
         },
         {
           "title": "美国财长贝森特：特朗普政府的政策显示了对强势美元的支持",
@@ -151,26 +152,29 @@
           "time_info": "01时39分"
         },
         {
-          "title": "特朗普称美俄乌会谈“可能会有事发生”",
-          "url": "https://flash.jin10.com/detail/20260207104748240800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时05分"
-        },
-        {
-          "title": "特朗普称美俄乌会谈“可能会有事发生”",
-          "url": "https://wallstreetcn.com/livenews/3051678",
+          "title": "特朗普称下周将再次与伊朗谈判",
+          "url": "https://wallstreetcn.com/livenews/3051664",
           "source": "华尔街见闻-快讯",
           "ranks": [
+            3,
+            15,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时42分 ~ 13时39分]"
+        },
+        {
+          "title": "美伊核谈判暂时结束，伊朗外长称「氛围很好」，特朗普称「下周继续谈」，目前进展如何？哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2003133394834432173",
+          "source": "知乎",
+          "ranks": [
+            7,
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时05分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时05分 ~ 13时39分]"
         },
         {
           "title": "泰森食品跌0.3%，报道称美国总统特朗普下令加大对阿根廷牛肉的进口力度。",
@@ -186,16 +190,16 @@
           "time_info": "[02时43分 ~ 04时29分]"
         },
         {
-          "title": "特朗普称下周将再次与伊朗谈判",
-          "url": "https://wallstreetcn.com/livenews/3051664",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普称美俄乌会谈“可能会有事发生”",
+          "url": "https://flash.jin10.com/detail/20260207104748240800",
+          "source": "金十数据",
           "ranks": [
-            3,
-            15
+            5,
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时42分 ~ 12时05分]"
+          "time_info": "[12时05分 ~ 13时39分]"
         },
         {
           "title": "据CBS：特朗普下令将阿根廷的牛肉进口量增至四倍。",
@@ -208,6 +212,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时43分 ~ 03时36分]"
+        },
+        {
+          "title": "特朗普称美俄乌会谈“可能会有事发生”",
+          "url": "https://wallstreetcn.com/livenews/3051678",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时05分 ~ 13时39分]"
         },
         {
           "title": "特朗普称下周将再次与伊朗谈判",
@@ -243,6 +259,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时29分 ~ 07时22分]"
+        },
+        {
+          "title": "奥巴马夫妇成了大猩猩？特朗普麻烦大了(图)",
+          "url": "https://news.ifeng.com/c/8qXgc9osPZh",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时42分 ~ 13时39分]"
         },
         {
           "title": "一名官员称，美国总统特朗普下令，从阿根廷进口的牛肉将增加三倍。（CBS）",
@@ -284,6 +311,30 @@
           "time_info": "[03时36分 ~ 05时27分]"
         },
         {
+          "title": "特朗普社媒账号删除与奥巴马有关视频片段，涉嫌种族歧视",
+          "url": "https://wallstreetcn.com/livenews/3051652",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            23,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时42分 ~ 13时39分]"
+        },
+        {
+          "title": "特朗普是否参与了爱泼斯坦萝莉岛的犯罪行为？",
+          "url": "https://www.zhihu.com/question/2001670984583902597",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时42分 ~ 13时39分]"
+        },
+        {
           "title": "贝森特重申：特朗普有关解雇沃什的言论是个玩笑",
           "url": "https://wallstreetcn.com/livenews/3051579",
           "source": "华尔街见闻-快讯",
@@ -297,6 +348,19 @@
           "time_info": "[02时43分 ~ 04时29分]"
         },
         {
+          "title": "特朗普起诉美两部门索赔百亿美元，美财长：若胜诉，费用将由民众承担",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32551398",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时42分 ~ 13时39分]"
+        },
+        {
           "title": "美国财长贝森特：“特朗普账户”（Trump accounts）可能会成为他最大的政治遗产。（CNBC）",
           "url": "https://wallstreetcn.com/livenews/3051578",
           "source": "华尔街见闻-快讯",
@@ -308,17 +372,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时43分 ~ 04时29分]"
-        },
-        {
-          "title": "奥巴马夫妇成了大猩猩？特朗普麻烦大了(图)",
-          "url": "https://news.ifeng.com/c/8qXgc9osPZh",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时42分 ~ 12时05分]"
         },
         {
           "title": "美国法官批准各州请求，强制要求美国总统特朗普政府解冻纽约市隧道资金。",
@@ -393,16 +446,28 @@
           "time_info": "[09时42分 ~ 12时05分]"
         },
         {
-          "title": "特朗普社媒账号删除与奥巴马有关视频片段，涉嫌种族歧视",
-          "url": "https://wallstreetcn.com/livenews/3051652",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普：美国与伊朗进行了“非常好的会谈”伊朗“非常渴望”达成协议",
+          "url": "https://flash.jin10.com/detail/20260207095625549800",
+          "source": "金十数据",
           "ranks": [
             11,
-            23
+            14
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时42分 ~ 12时05分]"
+          "time_info": "[12时05分 ~ 13时39分]"
+        },
+        {
+          "title": "特朗普拒绝为种族主义视频道歉，称“未看到冒犯内容”",
+          "url": "https://wallstreetcn.com/livenews/3051670",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时05分 ~ 13时39分]"
         },
         {
           "title": "据福克斯新闻：白宫发言人莱维特就美国总统特朗普关于奥巴马的推文一事表示，美国总统特朗普已就此事与立法者进行了沟通。",
@@ -417,15 +482,28 @@
           "time_info": "[09时42分 ~ 12时05分]"
         },
         {
-          "title": "特朗普是否参与了爱泼斯坦萝莉岛的犯罪行为？",
-          "url": "https://www.zhihu.com/question/2001670984583902597",
-          "source": "知乎",
+          "title": "特朗普：创纪录的股市得益于关税政策 道指将涨至10万点",
+          "url": "https://flash.jin10.com/detail/20260207095445721800",
+          "source": "金十数据",
           "ranks": [
-            13
+            12,
+            15
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时42分 ~ 12时05分]"
+          "time_info": "[12时05分 ~ 13时39分]"
+        },
+        {
+          "title": "特朗普称美国与伊朗进行了“非常好的会谈”",
+          "url": "https://wallstreetcn.com/livenews/3051669",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时05分 ~ 13时39分]"
         },
         {
           "title": "美国总统特朗普谈奥巴马视频：我没有犯错，我关注成千上万的事情。",
@@ -440,6 +518,18 @@
           "time_info": "[09时42分 ~ 12时05分]"
         },
         {
+          "title": "特朗普签署行政命令，对与伊朗有贸易往来的国家征收关税",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32556008",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时05分 ~ 13时39分]"
+        },
+        {
           "title": "美国总统特朗普关于奥巴马视频的声明：我们一发现此事就立即删除了它。",
           "url": "https://flash.jin10.com/detail/20260207083019927800",
           "source": "金十数据",
@@ -452,16 +542,16 @@
           "time_info": "[09时42分 ~ 12时05分]"
         },
         {
-          "title": "特朗普起诉美两部门索赔百亿美元，美财长：若胜诉，费用将由民众承担",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32551398",
+          "title": "特朗普再谈格陵兰岛：丹麦手里有块“冰”，我们想买它！",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32550953",
           "source": "澎湃新闻",
           "ranks": [
-            18,
+            17,
             16
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时42分 ~ 12时05分]"
+          "time_info": "[12时05分 ~ 13时39分]"
         },
         {
           "title": "美国纽约-新泽西隧道项目被迫停工，此前特朗普政府冻结资金",
@@ -476,61 +566,6 @@
           "time_info": "[00时40分 ~ 01时39分]"
         },
         {
-          "title": "美伊核谈判暂时结束，伊朗外长称「氛围很好」，特朗普称「下周继续谈」，目前进展如何？哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2003133394834432173",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时05分"
-        },
-        {
-          "title": "特朗普：美国与伊朗进行了“非常好的会谈”伊朗“非常渴望”达成协议",
-          "url": "https://flash.jin10.com/detail/20260207095625549800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时05分"
-        },
-        {
-          "title": "特朗普拒绝为种族主义视频道歉，称“未看到冒犯内容”",
-          "url": "https://wallstreetcn.com/livenews/3051670",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时05分"
-        },
-        {
-          "title": "特朗普：创纪录的股市得益于关税政策 道指将涨至10万点",
-          "url": "https://flash.jin10.com/detail/20260207095445721800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时05分"
-        },
-        {
-          "title": "特朗普称美国与伊朗进行了“非常好的会谈”",
-          "url": "https://wallstreetcn.com/livenews/3051669",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时05分"
-        },
-        {
           "title": "美国财长贝森特：特朗普账户或是其最伟大的政治遗产。",
           "url": "https://flash.jin10.com/detail/20260207015920210800",
           "source": "金十数据",
@@ -540,17 +575,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时43分"
-        },
-        {
-          "title": "特朗普签署行政命令，对与伊朗有贸易往来的国家征收关税",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32556008",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时05分"
         },
         {
           "title": "美国财长贝森特：总统特朗普关于如果沃什不降息就起诉他的言论纯属玩笑。（外媒更正是“起诉”而非“解雇”）",
@@ -575,13 +599,24 @@
           "time_info": "09时42分"
         },
         {
+          "title": "美国总统特朗普发文称，预计到其本届任期结束时，道琼斯指数将达到10万点。",
+          "url": "https://wallstreetcn.com/livenews/3051691",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时39分"
+        },
+        {
           "title": "特朗普拒绝道歉",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%8B%92%E7%BB%9D%E9%81%93%E6%AD%89%23&t=31&band_rank=16&Refer=top",
           "source": "微博",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时05分"
         },
@@ -595,17 +630,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时36分"
-        },
-        {
-          "title": "特朗普再谈格陵兰岛：丹麦手里有块“冰”，我们想买它！",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32550953",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时05分"
         },
         {
           "title": "美国总统特朗普：伊朗想达成协议。",
@@ -633,7 +657,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 29,
+      "match_count": 30,
       "titles": [
         {
           "title": "伊朗就美伊核谈判发表声明",
@@ -645,8 +669,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[02时43分 ~ 12时05分]"
+          "appearance_count": 11,
+          "time_info": "[02时43分 ~ 13时39分]"
         },
         {
           "title": "美国再发警告，敦促本国公民尽快离开伊朗",
@@ -710,6 +734,17 @@
           "time_info": "[01时39分 ~ 07时22分]"
         },
         {
+          "title": "伊朗外长：会谈是良好开端，最大挑战是不信任",
+          "url": "https://news.ifeng.com/c/8qXlsCyK0HX",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时05分 ~ 13时39分]"
+        },
+        {
           "title": "联合国秘书长发表声明：欢迎伊朗与美国恢复会谈",
           "url": "https://flash.jin10.com/detail/20260207002458087800",
           "source": "金十数据",
@@ -732,17 +767,6 @@
           "time_info": "01时39分"
         },
         {
-          "title": "伊朗外长：会谈是良好开端，最大挑战是不信任",
-          "url": "https://news.ifeng.com/c/8qXlsCyK0HX",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时05分"
-        },
-        {
           "title": "据AXIOS网站：伊朗外长阿拉格齐从阿曼动身前往卡塔尔，他将于周六在多哈会见卡塔尔首相兼外交大臣。",
           "url": "https://flash.jin10.com/detail/20260207002433718800",
           "source": "金十数据",
@@ -759,11 +783,12 @@
           "source": "金十数据",
           "ranks": [
             3,
-            19
+            19,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时42分 ~ 12时05分]"
+          "appearance_count": 3,
+          "time_info": "[09时42分 ~ 13时39分]"
         },
         {
           "title": "伊朗：武装部队进入最高级别战备状态",
@@ -867,6 +892,17 @@
           "time_info": "03时36分"
         },
         {
+          "title": "伊美谈判“暂时”结束，伊朗外长称开局良好",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32555521",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时39分"
+        },
+        {
           "title": "美国国务院：确认14艘影子船队船只为参与运输伊朗石油及其他产品的实体所拥有。制裁15家从事伊朗原产原油、石油产品或石化产品贸易的实体及两名个人。",
           "url": "https://flash.jin10.com/detail/20260206234357359800",
           "source": "金十数据",
@@ -884,7 +920,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时05分"
         },
@@ -982,8 +1018,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时39分 ~ 12时05分]"
+          "appearance_count": 14,
+          "time_info": "[00时39分 ~ 13时39分]"
+        },
+        {
+          "title": "信心回暖引发逢低买盘，美股报复性反弹！道指首破5万点，英伟达大涨7%，金银V形上涨，比特币涨11%",
+          "url": "https://wallstreetcn.com/articles/3765113",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时21分 ~ 13时39分]"
         },
         {
           "title": "科技股抛压暂缓，美股期指集体转涨，英伟达结束五连跌，金银V形反弹，比特币止跌",
@@ -995,17 +1042,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时39分 ~ 03时36分]"
-        },
-        {
-          "title": "信心回暖引发逢低买盘，美股报复性反弹！道指首破5万点，英伟达大涨7%，金银V形上涨，比特币涨11%",
-          "url": "https://wallstreetcn.com/articles/3765113",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时21分 ~ 12时05分]"
         },
         {
           "title": "逢低买盘撑美股大幅反弹，道指新高，英伟达大涨7%，金银V形反弹，比特币涨11%",
@@ -1028,8 +1064,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时21分 ~ 12时05分]"
+          "appearance_count": 5,
+          "time_info": "[07时21分 ~ 13时39分]"
         },
         {
           "title": "一图看懂：美股“AI烧钱”大战今年继续打响",
@@ -1129,8 +1165,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时42分 ~ 12时05分]"
+          "appearance_count": 3,
+          "time_info": "[09时42分 ~ 13时39分]"
         },
         {
           "title": "据知情人士透露，OpenAI与G42洽谈向阿联酋提供特殊版本的GPT。 该模型将嵌入当地语言，政治前景，言论限制等方案。 这款微调的GPT用户将是阿联酋的政府部门。（Semafor）",
@@ -1267,11 +1303,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             13,
-            25
+            25,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时42分 ~ 12时05分]"
+          "appearance_count": 3,
+          "time_info": "[09时42分 ~ 13时39分]"
         },
         {
           "title": "美国议员们寻求司法部与苹果公司、Alphabet旗下谷歌公司的联系记录。 他们调查司法部在总统特朗普的移民与海关执法局（ICE）追踪类APP上所发挥的作用。（Politico）",
