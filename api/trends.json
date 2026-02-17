@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-18T01:27:19.418472+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-02-18T01:53:46.722470+08:00",
+  "total_titles_processed": 345,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "伊朗谈判新策略曝光：与美联合开发油气田、矿区，采购美飞机，“让美国能快速获得高额经济回报”！",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时27分"
+          "appearance_count": 2,
+          "time_info": "[01时27分 ~ 01时53分]"
         },
         {
           "title": "伊朗外长披露与美方谈判结果",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时27分"
+          "appearance_count": 2,
+          "time_info": "[01时27分 ~ 01时53分]"
         },
         {
           "title": "伊朗宣布霍尔木兹海峡部分区域将关闭数小时",
@@ -37,8 +37,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时27分"
+          "appearance_count": 2,
+          "time_info": "[01时27分 ~ 01时53分]"
         },
         {
           "title": "美官员：预计伊朗将在未来两周就核谈判内容提出详细方案",
@@ -48,19 +48,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时27分"
+          "appearance_count": 2,
+          "time_info": "[01时27分 ~ 01时53分]"
         },
         {
           "title": "美国官员：伊朗方面表示，他们将在未来两周内带着详细提案重返谈判，以解决我们在立场上存在的一些悬而未决的分歧。",
           "url": "https://flash.jin10.com/detail/20260218001635068800",
           "source": "金十数据",
           "ranks": [
-            13
+            13,
+            24
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时27分"
+          "appearance_count": 2,
+          "time_info": "[01时27分 ~ 01时53分]"
         },
         {
           "title": "伊朗将在未来两周向美国递交详细方案。（Axios）",
@@ -70,8 +71,19 @@
             20
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时27分 ~ 01时53分]"
+        },
+        {
+          "title": "美官员：预计伊朗将在未来两周就核谈判内容提出详细方案",
+          "url": "https://flash.jin10.com/detail/20260218010446612800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时27分"
+          "time_info": "01时53分"
         },
         {
           "title": "哈梅内伊：美国无法摧毁伊朗",
@@ -88,7 +100,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "哈梅内伊回应特朗普威胁",
@@ -98,19 +110,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时27分"
-        },
-        {
-          "title": "据Politico：美国总统特朗普与阿根廷总统米莱达成的协议加大欧盟敲定南方共同市场协定的压力。",
-          "url": "https://flash.jin10.com/detail/20260218005046026800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时27分"
+          "appearance_count": 2,
+          "time_info": "[01时27分 ~ 01时53分]"
         },
         {
           "title": "美部长与下属传出婚外情，特朗普回应",
@@ -120,41 +121,67 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时27分 ~ 01时53分]"
+        },
+        {
+          "title": "美国纽约市市长：美国总统特朗普政府再次解冻了7700万美元的纽约隧道资金。",
+          "url": "https://flash.jin10.com/detail/20260218012450530800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时27分"
+          "time_info": "01时53分"
+        },
+        {
+          "title": "据Politico：美国总统特朗普与阿根廷总统米莱达成的协议加大欧盟敲定南方共同市场协定的压力。",
+          "url": "https://flash.jin10.com/detail/20260218005046026800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时27分 ~ 01时53分]"
         },
         {
           "title": "美国总统特朗普：马里兰、弗吉尼亚州和华盛顿特区应对波托马克河的污水泄漏负责，必须立即着手处理。如果他们无法完成工作，就必须礼貌地给我打电话，请我帮忙修复。",
           "url": "https://flash.jin10.com/detail/20260218000855742800",
           "source": "金十数据",
           "ranks": [
-            15
+            15,
+            26
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时27分"
+          "appearance_count": 2,
+          "time_info": "[01时27分 ~ 01时53分]"
         },
         {
           "title": "据Politico：美国国土安全部发言人特里西娅·麦克劳克林将离开特朗普政府。",
           "url": "https://flash.jin10.com/detail/20260218000727610800",
           "source": "金十数据",
           "ranks": [
-            16
+            16,
+            27
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时27分"
+          "appearance_count": 2,
+          "time_info": "[01时27分 ~ 01时53分]"
         },
         {
           "title": "美国总统特朗普：波托马克河泄漏是激进左派造成的环境危害。",
           "url": "https://flash.jin10.com/detail/20260217235812714800",
           "source": "金十数据",
           "ranks": [
-            18
+            18,
+            29
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时27分"
+          "appearance_count": 2,
+          "time_info": "[01时27分 ~ 01时53分]"
         }
       ]
     },
@@ -170,8 +197,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时27分"
+          "appearance_count": 2,
+          "time_info": "[01时27分 ~ 01时53分]"
         },
         {
           "title": "Alphabet旗下谷歌公司计划从可再生能源公司Ormat Technologies获取电力供应，来支持自家在美国内华达州的一系列数据中心的运作。 根据协议，Ormat将向谷歌供应至多150 MW的电力。",
@@ -181,8 +208,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时27分"
+          "appearance_count": 2,
+          "time_info": "[01时27分 ~ 01时53分]"
         }
       ]
     },
@@ -198,8 +225,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时27分"
+          "appearance_count": 2,
+          "time_info": "[01时27分 ~ 01时53分]"
         },
         {
           "title": "金价银价直线跳水",
@@ -226,8 +253,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时27分"
+          "appearance_count": 2,
+          "time_info": "[01时27分 ~ 01时53分]"
         },
         {
           "title": "“AI恐慌交易”持续发酵 美股三大期指小幅走低 | 今夜看点",
@@ -237,8 +264,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时27分"
+          "appearance_count": 2,
+          "time_info": "[01时27分 ~ 01时53分]"
         }
       ]
     },
@@ -254,8 +281,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时27分"
+          "appearance_count": 2,
+          "time_info": "[01时27分 ~ 01时53分]"
         },
         {
           "title": "非洲股市收盘播报｜周二（2月17日），南非富时/JSE非洲领先40可交易指数收跌1.40%，至11.14万点下方。 现货黄金跌超2.5%，持稳于北京时间22:01刷新的日低4843.51美元附近。",
@@ -265,8 +292,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时27分"
+          "appearance_count": 2,
+          "time_info": "[01时27分 ~ 01时53分]"
         }
       ]
     }
