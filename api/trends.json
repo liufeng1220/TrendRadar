@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-18T12:19:17.233807+08:00",
-  "total_titles_processed": 925,
+  "generated_at": "2026-02-18T13:59:02.414288+08:00",
+  "total_titles_processed": 1023,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 32,
+      "match_count": 33,
       "titles": [
         {
           "title": "哈梅内伊回应特朗普威胁",
@@ -28,8 +28,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[02时52分 ~ 12时19分]"
+          "appearance_count": 14,
+          "time_info": "[02时52分 ~ 13时59分]"
         },
         {
           "title": "美部长与下属传出婚外情，特朗普回应",
@@ -85,9 +85,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时19分"
+        },
+        {
+          "title": "特朗普宣布大消息，日本要当冤大头了",
+          "url": "https://news.ifeng.com/c/8qq0daMEvoo",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时51分 ~ 13时59分]"
         },
         {
           "title": "美国总统特朗普：宣布关于得州、俄亥俄州、以及佐治亚州的项目。 得州项目包括石油和天然其的战略领域。 佐治亚州项目与关键矿物有关。",
@@ -139,15 +150,16 @@
           "time_info": "[04时33分 ~ 05时32分]"
         },
         {
-          "title": "特朗普宣布大消息，日本要当冤大头了",
-          "url": "https://news.ifeng.com/c/8qq0daMEvoo",
-          "source": "凤凰网",
+          "title": "特朗普女儿伊万卡中文拜年：新年快乐",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%A5%B3%E5%84%BF%E4%BC%8A%E4%B8%87%E5%8D%A1%E4%B8%AD%E6%96%87%E6%8B%9C%E5%B9%B4%EF%BC%9A%E6%96%B0%E5%B9%B4%E5%BF%AB%E4%B9%90",
+          "source": "百度热搜",
           "ranks": [
-            6
+            18,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时51分 ~ 12时19分]"
+          "appearance_count": 3,
+          "time_info": "[12时19分 ~ 13时59分]"
         },
         {
           "title": "美国副总统万斯：无论采取外交手段还是其他选项，特朗普都想找到解决方案。",
@@ -313,6 +325,17 @@
           "time_info": "05时32分"
         },
         {
+          "title": "墨西哥总统：墨西哥已拒绝特朗普加入“和平委员会”的邀请",
+          "url": "https://wallstreetcn.com/livenews/3056209",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时59分"
+        },
+        {
           "title": "据路透社/IPSOS民调，特朗普的整体支持率维持在38%的总统低点。",
           "url": "https://flash.jin10.com/detail/20260218060047004800",
           "source": "金十数据",
@@ -344,17 +367,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时45分"
-        },
-        {
-          "title": "特朗普女儿伊万卡中文拜年：新年快乐",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%A5%B3%E5%84%BF%E4%BC%8A%E4%B8%87%E5%8D%A1%E4%B8%AD%E6%96%87%E6%8B%9C%E5%B9%B4%EF%BC%9A%E6%96%B0%E5%B9%B4%E5%BF%AB%E4%B9%90",
-          "source": "百度热搜",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时19分"
         },
         {
           "title": "美国副总统万斯：特朗普在伊朗问题上有很多选择。",
@@ -404,8 +416,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时27分 ~ 12时19分]"
+          "appearance_count": 16,
+          "time_info": "[01时27分 ~ 13时59分]"
         },
         {
           "title": "伊朗宣布霍尔木兹海峡部分区域将关闭数小时",
@@ -426,8 +438,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时51分 ~ 12时19分]"
+          "appearance_count": 4,
+          "time_info": "[09时51分 ~ 13时59分]"
         },
         {
           "title": "哈梅内伊：美国无法摧毁伊朗",
@@ -443,17 +455,6 @@
           "time_info": "[01时27分 ~ 04时33分]"
         },
         {
-          "title": "伊朗外长要求美国停止动武威胁",
-          "url": "https://wallstreetcn.com/livenews/3056206",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时19分"
-        },
-        {
           "title": "报道：俄罗斯和伊朗海军在阿曼湾举行联合演习",
           "url": "https://wallstreetcn.com/livenews/3056092",
           "source": "华尔街见闻-快讯",
@@ -465,6 +466,31 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时53分 ~ 04时33分]"
+        },
+        {
+          "title": "伊朗外长要求美国停止动武威胁",
+          "url": "https://wallstreetcn.com/livenews/3056206",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时19分 ~ 13时59分]"
+        },
+        {
+          "title": "哈梅内伊：美国无法摧毁伊朗",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32626225",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时51分 ~ 13时59分]"
         },
         {
           "title": "美官员：预计伊朗将在未来两周就核谈判内容提出详细方案",
@@ -479,6 +505,29 @@
           "time_info": "[01时27分 ~ 02时53分]"
         },
         {
+          "title": "伊朗外长称就伊美谈判“指导原则”达成一致，布油一度跌近3%",
+          "url": "https://wallstreetcn.com/articles/3765814",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时19分 ~ 13时59分]"
+        },
+        {
+          "title": "美军 18 架战机飞向中东，伊朗举行军演，谈判前夕互亮「底牌」，双方有哪些核心分歧？最终结果可能如何？",
+          "url": "https://www.zhihu.com/question/2007003476190786977",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时19分 ~ 13时59分]"
+        },
+        {
           "title": "美国官员：伊朗方面表示，他们将在未来两周内带着详细提案重返谈判，以解决我们在立场上存在的一些悬而未决的分歧。",
           "url": "https://flash.jin10.com/detail/20260218001635068800",
           "source": "金十数据",
@@ -489,18 +538,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时27分 ~ 01时53分]"
-        },
-        {
-          "title": "哈梅内伊：美国无法摧毁伊朗",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32626225",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时51分 ~ 12时19分]"
         },
         {
           "title": "伊朗将在未来两周向美国递交详细方案。（Axios）",
@@ -525,17 +562,6 @@
           "time_info": "04时33分"
         },
         {
-          "title": "伊朗外长称就伊美谈判“指导原则”达成一致，布油一度跌近3%",
-          "url": "https://wallstreetcn.com/articles/3765814",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时19分"
-        },
-        {
           "title": "美官员：预计伊朗将在未来两周就核谈判内容提出详细方案",
           "url": "https://flash.jin10.com/detail/20260218010446612800",
           "source": "金十数据",
@@ -558,17 +584,6 @@
           "time_info": "05时32分"
         },
         {
-          "title": "美军 18 架战机飞向中东，伊朗举行军演，谈判前夕互亮「底牌」，双方有哪些核心分歧？最终结果可能如何？",
-          "url": "https://www.zhihu.com/question/2007003476190786977",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时19分"
-        },
-        {
           "title": "伊朗总统：伊朗愿就其核工业和平性质接受任何形式核查",
           "url": "https://flash.jin10.com/detail/20260218023510875800",
           "source": "金十数据",
@@ -586,7 +601,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时19分"
         },
@@ -629,8 +644,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时27分 ~ 12时19分]"
+          "appearance_count": 16,
+          "time_info": "[01时27分 ~ 13时59分]"
         },
         {
           "title": "AI担忧仍存，美股走V微涨，软件股再遭抛售，金银油下挫，期银跌近6%",
@@ -641,8 +656,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时51分 ~ 12时19分]"
+          "appearance_count": 4,
+          "time_info": "[09时51分 ~ 13时59分]"
         },
         {
           "title": "AI担忧仍存，美股走V微涨，软件股再遭抛售，大宗商品普跌，英央行降息预期上升，英镑一度跳水1%",
@@ -736,8 +751,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时51分 ~ 12时19分]"
+          "appearance_count": 4,
+          "time_info": "[09时51分 ~ 13时59分]"
         },
         {
           "title": "美股三大股指收涨 贵金属、有色板块跌幅居前",
@@ -977,7 +992,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时19分"
         }
