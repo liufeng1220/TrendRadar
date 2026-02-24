@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-25T06:46:06.875921+08:00",
-  "total_titles_processed": 583,
+  "generated_at": "2026-02-25T07:28:23.335910+08:00",
+  "total_titles_processed": 625,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 27,
+      "match_count": 29,
       "titles": [
         {
           "title": "特朗普称将会在3月31日访问中国，外交部回应",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时02分 ~ 06时46分]"
+          "appearance_count": 13,
+          "time_info": "[01时02分 ~ 07时28分]"
         },
         {
           "title": "特朗普称将会在3月31日访问中国，外交部回应",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时02分 ~ 06时46分]"
+          "appearance_count": 13,
+          "time_info": "[01时02分 ~ 07时28分]"
         },
         {
           "title": "特朗普第二任期首场国情咨文会谈什么？“剧透”来了",
@@ -37,8 +37,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时02分 ~ 06时46分]"
+          "appearance_count": 13,
+          "time_info": "[01时02分 ~ 07时28分]"
         },
         {
           "title": "报道：特朗普拟用AI定关键矿产参考价，锗、镓、锑、钨首批纳入",
@@ -51,8 +51,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时02分 ~ 06时46分]"
+          "appearance_count": 13,
+          "time_info": "[01时02分 ~ 07时28分]"
         },
         {
           "title": "中美就特朗普访华事宜保持着沟通",
@@ -64,8 +64,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时02分 ~ 06时46分]"
+          "appearance_count": 13,
+          "time_info": "[01时02分 ~ 07时28分]"
         },
         {
           "title": "中方回应特朗普3月31日将访问中国",
@@ -74,11 +74,12 @@
           "ranks": [
             28,
             18,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[03时53分 ~ 06时46分]"
+          "appearance_count": 9,
+          "time_info": "[03时53分 ~ 07时28分]"
         },
         {
           "title": "美国纽约州州长Hochul呼吁特朗普政府退还135亿美元关税款项",
@@ -116,6 +117,17 @@
           "time_info": "04时31分"
         },
         {
+          "title": "美国众议长称，最高法院关税裁决对特朗普是“一记重击”",
+          "url": "https://wallstreetcn.com/livenews/3058387",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时28分"
+        },
+        {
           "title": "乌克兰驻美大使斯特凡尼希娜：预计将在美国总统特朗普的国情咨文演讲中听到有关结束冲突的信息。",
           "url": "https://flash.jin10.com/detail/20260225004034013800",
           "source": "金十数据",
@@ -125,6 +137,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时03分"
+        },
+        {
+          "title": "白宫：特朗普对伊朗首选方案是外交",
+          "url": "https://www.baidu.com/s?wd=%E7%99%BD%E5%AE%AB%EF%BC%9A%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E4%BC%8A%E6%9C%97%E9%A6%96%E9%80%89%E6%96%B9%E6%A1%88%E6%98%AF%E5%A4%96%E4%BA%A4",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            24,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[05时30分 ~ 07时28分]"
         },
         {
           "title": "电费太贵 特朗普将在国情咨文中宣布让科技公司为AI能源买单",
@@ -163,18 +188,6 @@
           "time_info": "[03时54分 ~ 04时31分]"
         },
         {
-          "title": "白宫：特朗普对伊朗首选方案是外交",
-          "url": "https://www.baidu.com/s?wd=%E7%99%BD%E5%AE%AB%EF%BC%9A%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E4%BC%8A%E6%9C%97%E9%A6%96%E9%80%89%E6%96%B9%E6%A1%88%E6%98%AF%E5%A4%96%E4%BA%A4",
-          "source": "百度热搜",
-          "ranks": [
-            27,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时30分 ~ 06时46分]"
-        },
-        {
           "title": "美国民主党指责司法部为特朗普“打掩护” 关键证据或遭扣押",
           "url": "https://flash.jin10.com/detail/20260225045852872800",
           "source": "金十数据",
@@ -211,6 +224,18 @@
           "time_info": "[05时31分 ~ 06时46分]"
         },
         {
+          "title": "据CNBC：特朗普将通过预算协调程序公布减税计划。",
+          "url": "https://flash.jin10.com/detail/20260225052942727800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时46分 ~ 07时28分]"
+        },
+        {
           "title": "特朗普政府被1000多家企业起诉",
           "url": "https://www.toutiao.com/trending/7609548645095964718/",
           "source": "今日头条",
@@ -244,15 +269,15 @@
           "time_info": "01时03分"
         },
         {
-          "title": "据CNBC：特朗普将通过预算协调程序公布减税计划。",
-          "url": "https://flash.jin10.com/detail/20260225052942727800",
+          "title": "市场消息：特朗普将于周三举行会议，讨论政府振兴弗吉尼亚州杜勒斯机场的计划。",
+          "url": "https://flash.jin10.com/detail/20260225062520187800",
           "source": "金十数据",
           "ranks": [
-            13
+            14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时46分"
+          "time_info": "07时28分"
         },
         {
           "title": "美国参议院民主党成员Warren等人要求就特朗普关税退款问题制定计划。",
@@ -294,7 +319,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时46分"
         },
@@ -332,11 +357,12 @@
           "source": "今日头条",
           "ranks": [
             2,
-            5
+            5,
+            1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时02分 ~ 06时46分]"
+          "appearance_count": 13,
+          "time_info": "[01时02分 ~ 07时28分]"
         },
         {
           "title": "中方回应“美考虑军事打击伊朗”",
@@ -348,8 +374,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时02分 ~ 06时46分]"
+          "appearance_count": 13,
+          "time_info": "[01时02分 ~ 07时28分]"
         },
         {
           "title": "美军参联会主席警告：对伊朗动武可能带来重大风险",
@@ -375,8 +401,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时02分 ~ 06时46分]"
+          "appearance_count": 13,
+          "time_info": "[01时02分 ~ 07时28分]"
         },
         {
           "title": "WW3预热,美国对伊朗动手",
@@ -387,8 +413,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时02分 ~ 06时46分]"
+          "appearance_count": 13,
+          "time_info": "[01时02分 ~ 07时28分]"
         },
         {
           "title": "英媒称美军仅能维持4至5天对伊朗高强度空袭",
@@ -521,7 +547,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "“2028AI末日预言”吓坏市场，投资者掀起抛售潮，美股多板块盘中集体重挫",
@@ -543,8 +569,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时02分 ~ 06时46分]"
+          "appearance_count": 13,
+          "time_info": "[01时02分 ~ 07时28分]"
         },
         {
           "title": "AI冲击余波未平，美股盘初涨跌互现，芯片板块拉升，AMD拿下大单涨超6%，金银回落，基本金属拉升",
@@ -567,19 +593,20 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时02分 ~ 06时46分]"
+          "appearance_count": 13,
+          "time_info": "[01时02分 ~ 07时28分]"
         },
         {
           "title": "惠普（HPQ）美股盘后跌幅扩大至将近7%，存储芯片打压其业绩展望。",
           "url": "https://wallstreetcn.com/livenews/3058381",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时46分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时46分 ~ 07时28分]"
         },
         {
           "title": "数字货币市场在美股早盘反弹",
@@ -630,6 +657,17 @@
           "time_info": "[05时31分 ~ 06时46分]"
         },
         {
+          "title": "美股收盘：软件板块回暖三大指数齐涨 空头突袭存储牛股",
+          "url": "https://www.cls.cn/detail/2294131",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时28分"
+        },
+        {
           "title": "周二（2月24日）美股尾盘，彭博电动汽车价格回报指数涨1.66%，报3695.65点，亚太盘初以来持续走高，美股盘初显著加速。",
           "url": "https://wallstreetcn.com/livenews/3058334",
           "source": "华尔街见闻-快讯",
@@ -669,7 +707,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时46分"
         },
@@ -680,7 +718,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时46分"
         }
@@ -746,11 +784,12 @@
           "url": "https://wallstreetcn.com/livenews/3058374",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            9,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时46分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时46分 ~ 07时28分]"
         }
       ]
     },
@@ -758,6 +797,18 @@
       "keyword_group": "美债",
       "match_count": 2,
       "titles": [
+        {
+          "title": "美债市场持仓更新：债券交易员押注美联储降息将持续至2027年",
+          "url": "https://wallstreetcn.com/livenews/3058362",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时46分 ~ 07时28分]"
+        },
         {
           "title": "周二（2月24日）纽约尾盘，美国10年期国债收益率涨1.76个基点，报4.0385%。 两年期美债收益率涨2.09个基点，报3.4590%；30年期美债收益率跌0.58个基点，报4.6962%。 2/10年期美债收益率利差跌1.124个基点，报+57.552个基点。 10年期通胀保值国债（TIPS）收益率持平，报1.7694%；两年期TIPS收益率涨2.23个基点，至0.7337%；30年期TIPS收益率跌1.06个基点，至2.4819%。",
           "url": "https://wallstreetcn.com/livenews/3058330",
@@ -768,17 +819,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时31分"
-        },
-        {
-          "title": "美债市场持仓更新：债券交易员押注美联储降息将持续至2027年",
-          "url": "https://wallstreetcn.com/livenews/3058362",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时46分"
         }
       ]
     },
@@ -792,11 +832,12 @@
           "source": "今日头条",
           "ranks": [
             26,
-            29
+            29,
+            24
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时53分 ~ 05时31分]"
+          "appearance_count": 7,
+          "time_info": "[03时53分 ~ 07时28分]"
         }
       ]
     },
