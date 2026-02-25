@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-25T19:38:54.889417+08:00",
-  "total_titles_processed": 1547,
+  "generated_at": "2026-02-25T20:56:27.250994+08:00",
+  "total_titles_processed": 1661,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 83,
+      "match_count": 85,
       "titles": [
         {
           "title": "特朗普称将会在3月31日访问中国，外交部回应",
@@ -65,8 +65,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[01时02分 ~ 19时38分]"
+          "appearance_count": 25,
+          "time_info": "[01时02分 ~ 20时56分]"
         },
         {
           "title": "中美就特朗普访华事宜保持着沟通",
@@ -94,6 +94,29 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[03时53分 ~ 07时28分]"
+        },
+        {
+          "title": "特朗普戏精上身，模仿民众哭诉“赢到不知道该怎么办”(图)",
+          "url": "https://v.ifeng.com/c/8r1uSam1Yxo",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时51分 ~ 20时56分]"
+        },
+        {
+          "title": "特朗普声称争取到18万亿美元投资承诺，美媒打脸：纯属虚构",
+          "url": "https://news.ifeng.com/c/8r1wCrsmaVy",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时51分 ~ 20时56分]"
         },
         {
           "title": "特朗普发表国情咨文演讲，民主党议员举横幅被带离",
@@ -129,29 +152,6 @@
           "time_info": "[15时04分 ~ 16时43分]"
         },
         {
-          "title": "特朗普戏精上身，模仿民众哭诉“赢到不知道该怎么办”(图)",
-          "url": "https://v.ifeng.com/c/8r1uSam1Yxo",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时51分 ~ 19时38分]"
-        },
-        {
-          "title": "特朗普声称争取到18万亿美元投资承诺，美媒打脸：纯属虚构",
-          "url": "https://news.ifeng.com/c/8r1wCrsmaVy",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时51分 ~ 19时38分]"
-        },
-        {
           "title": "特朗普打还是不打，只是时间问题了",
           "url": "https://news.ifeng.com/c/8r1bJIeSigy",
           "source": "凤凰网",
@@ -175,6 +175,19 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[12时22分 ~ 17时51分]"
+        },
+        {
+          "title": "解读特朗普2.0首份国情咨文：过去一年美国经济到底赢没赢？",
+          "url": "https://www.cls.cn/detail/2294552",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时42分 ~ 20时56分]"
         },
         {
           "title": "美国纽约州州长Hochul呼吁特朗普政府退还135亿美元关税款项",
@@ -218,7 +231,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时38分"
         },
@@ -311,19 +324,6 @@
           "time_info": "16时43分"
         },
         {
-          "title": "解读特朗普2.0首份国情咨文：过去一年美国经济到底赢没赢？",
-          "url": "https://www.cls.cn/detail/2294552",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时42分 ~ 19时38分]"
-        },
-        {
           "title": "乌克兰驻美大使斯特凡尼希娜：预计将在美国总统特朗普的国情咨文演讲中听到有关结束冲突的信息。",
           "url": "https://flash.jin10.com/detail/20260225004034013800",
           "source": "金十数据",
@@ -383,6 +383,19 @@
           "time_info": "[03时54分 ~ 04时31分]"
         },
         {
+          "title": "特朗普国情咨文：“关税提振了股市”，大型科技公司需自建电厂，应立法禁议员炒股",
+          "url": "https://wallstreetcn.com/articles/3766126",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时51分 ~ 20时56分]"
+        },
+        {
           "title": "市场消息：加拿大输油管道公司South Bow正考虑一项新项目，该项目将重启Keystone XL输油管道的部分线路。加拿大总理卡尼在向美国总统特朗普提出管道构想时，就已知该公司重启的计划。",
           "url": "https://flash.jin10.com/detail/20260225032658019800",
           "source": "金十数据",
@@ -393,19 +406,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时54分 ~ 04时31分]"
-        },
-        {
-          "title": "特朗普国情咨文：“关税提振了股市”，大型科技公司需自建电厂，应立法禁议员炒股",
-          "url": "https://wallstreetcn.com/articles/3766126",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时51分 ~ 19时38分]"
         },
         {
           "title": "特朗普走上“关税悬崖”",
@@ -606,7 +606,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时38分"
         },
@@ -653,6 +653,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时23分"
+        },
+        {
+          "title": "特朗普：我们赢得太多了",
+          "url": "https://www.douyin.com/hot/2411181",
+          "source": "抖音",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
         },
         {
           "title": "市场消息：特朗普将于周三举行会议，讨论政府振兴弗吉尼亚州杜勒斯机场的计划。",
@@ -785,6 +796,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时23分"
+        },
+        {
+          "title": "白宫称特朗普对伊朗问题的首选手段永远是外交",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32650673",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
         },
         {
           "title": "美国总统特朗普：正努力结束俄乌冲突。",
@@ -955,7 +977,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 25,
+      "match_count": 27,
       "titles": [
         {
           "title": "在伊朗中国人：华联会已准备撤离方案",
@@ -991,11 +1013,12 @@
           "ranks": [
             2,
             5,
-            4
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时58分 ~ 19时38分]"
+          "appearance_count": 8,
+          "time_info": "[13时58分 ~ 20时56分]"
         },
         {
           "title": "媒体：伊朗即将购入中国超音速反舰导弹",
@@ -1069,6 +1092,18 @@
           "time_info": "[01时02分 ~ 18时46分]"
         },
         {
+          "title": "两个因素决定美国是否会攻打伊朗，何时攻打伊朗",
+          "url": "https://news.ifeng.com/c/8r29cDgfx2m",
+          "source": "凤凰网",
+          "ranks": [
+            3,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时51分 ~ 20时56分]"
+        },
+        {
           "title": "在伊朗中国人：华联会已准备撤离方案",
           "url": "https://www.baidu.com/s?wd=%E5%9C%A8%E4%BC%8A%E6%9C%97%E4%B8%AD%E5%9B%BD%E4%BA%BA%EF%BC%9A%E5%8D%8E%E8%81%94%E4%BC%9A%E5%B7%B2%E5%87%86%E5%A4%87%E6%92%A4%E7%A6%BB%E6%96%B9%E6%A1%88",
           "source": "百度热搜",
@@ -1081,16 +1116,26 @@
           "time_info": "[09时49分 ~ 12时23分]"
         },
         {
-          "title": "两个因素决定美国是否会攻打伊朗，何时攻打伊朗",
-          "url": "https://news.ifeng.com/c/8r29cDgfx2m",
-          "source": "凤凰网",
+          "title": "德国外交部发言人就即将在日内瓦举行的伊核谈判表示，我们期待伊朗抓住机遇，以建设性方式参与谈判。",
+          "url": "https://flash.jin10.com/detail/20260225202647910800",
+          "source": "金十数据",
           "ranks": [
-            3,
-            8
+            2
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时51分 ~ 19时38分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
+        },
+        {
+          "title": "据官方媒体报道，伊朗谈判代表团已离开德黑兰，前往日内瓦参加第三轮核谈判。",
+          "url": "https://flash.jin10.com/detail/20260225202053665800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
         },
         {
           "title": "英媒称美军仅能维持4至5天对伊朗高强度空袭",
@@ -1268,7 +1313,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "“2028AI末日预言”吓坏市场，投资者掀起抛售潮，美股多板块盘中集体重挫",
@@ -1427,6 +1472,18 @@
           "time_info": "[05时31分 ~ 06时46分]"
         },
         {
+          "title": "劳氏第四季度调整后每股收益1.98美元，上年同期1.93美元，预估1.94美元。 第四季度销售净额205.8亿美元，同比增长11%，预估203.5亿美元。 第四季度同店销售增长1.3％，预估增长0.47％。 第四季度毛利66.8亿美元，同比增长9.6%，预估66.3亿美元。 劳氏预计全年调整后每股收益12.25美元至12.75美元。 劳氏预计全年调整后运营利润率11.6％至11.8％。 劳氏预计全年资本支出大约25亿美元，预估25亿美元。 劳氏美股盘前跌1.5%。",
+          "url": "https://wallstreetcn.com/livenews/3058828",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时38分 ~ 20时56分]"
+        },
+        {
           "title": "周二（2月24日）美股尾盘，彭博电动汽车价格回报指数涨1.66%，报3695.65点，亚太盘初以来持续走高，美股盘初显著加速。",
           "url": "https://wallstreetcn.com/livenews/3058334",
           "source": "华尔街见闻-快讯",
@@ -1436,17 +1493,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时31分"
-        },
-        {
-          "title": "劳氏第四季度调整后每股收益1.98美元，上年同期1.93美元，预估1.94美元。 第四季度销售净额205.8亿美元，同比增长11%，预估203.5亿美元。 第四季度同店销售增长1.3％，预估增长0.47％。 第四季度毛利66.8亿美元，同比增长9.6%，预估66.3亿美元。 劳氏预计全年调整后每股收益12.25美元至12.75美元。 劳氏预计全年调整后运营利润率11.6％至11.8％。 劳氏预计全年资本支出大约25亿美元，预估25亿美元。 劳氏美股盘前跌1.5%。",
-          "url": "https://wallstreetcn.com/livenews/3058828",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时38分"
         },
         {
           "title": "德债收益率在美股盘初短暂地拉升",
@@ -1469,6 +1515,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时51分"
+        },
+        {
+          "title": "甲骨文美股盘前涨3%，此前Oppenheimer将甲骨文评级从与大盘一致上调至“跑赢大盘”，目标价185美元。",
+          "url": "https://wallstreetcn.com/livenews/3058852",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
         },
         {
           "title": "美股三大股指延续涨势，纳指涨超1%，道指涨0.83%，标普500指数涨0.68%。",
@@ -1611,7 +1668,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "美债市场持仓更新：债券交易员押注美联储降息将持续至2027年",
@@ -1635,6 +1692,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时31分"
+        },
+        {
+          "title": "分析师：美债收益率加速攀升",
+          "url": "https://flash.jin10.com/detail/20260225200106256800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
         }
       ]
     },
@@ -1682,6 +1750,23 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[03时53分 ~ 07时28分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金价高的已经推出红绳戒指了",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E9%AB%98%E7%9A%84%E5%B7%B2%E7%BB%8F%E6%8E%A8%E5%87%BA%E7%BA%A2%E7%BB%B3%E6%88%92%E6%8C%87%E4%BA%86&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
         }
       ]
     }
