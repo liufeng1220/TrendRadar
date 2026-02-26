@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-26T19:38:03.381071+08:00",
-  "total_titles_processed": 1588,
+  "generated_at": "2026-02-26T20:57:06.366710+08:00",
+  "total_titles_processed": 1706,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 39,
+      "match_count": 43,
       "titles": [
         {
           "title": "白宫官员希望以色列先打击伊朗",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时50分 ~ 19时38分]"
+          "appearance_count": 9,
+          "time_info": "[15时50分 ~ 20时57分]"
         },
         {
           "title": "中方正密切关注伊朗局势发展",
@@ -26,11 +26,12 @@
           "ranks": [
             2,
             4,
-            3
+            3,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时42分 ~ 19时38分]"
+          "appearance_count": 8,
+          "time_info": "[16时42分 ~ 20时57分]"
         },
         {
           "title": "如美发动攻击，中俄会否联手支援伊朗？外交部回应",
@@ -40,8 +41,21 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时44分 ~ 19时38分]"
+          "appearance_count": 7,
+          "time_info": "[17时44分 ~ 20时57分]"
+        },
+        {
+          "title": "如果美国对伊朗发动攻击，中国是否会和俄罗斯一道支持伊朗？外交部回应",
+          "url": "https://www.cls.cn/detail/2295813",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时45分 ~ 20时57分]"
         },
         {
           "title": "美国国务卿鲁比奥：伊朗正试图研制洲际弹道导弹。",
@@ -64,6 +78,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
+        },
+        {
+          "title": "伊朗伊斯兰共和国通讯社（IRNA）：伊美谈判将于数小时后恢复。",
+          "url": "https://flash.jin10.com/detail/20260226203652251800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
         },
         {
           "title": "美国国务卿鲁比奥：伊朗拥有旨在攻击美国的常规武器。",
@@ -122,17 +147,16 @@
           "time_info": "[17时44分 ~ 19时38分]"
         },
         {
-          "title": "如果美国对伊朗发动攻击，中国是否会和俄罗斯一道支持伊朗？外交部回应",
-          "url": "https://www.cls.cn/detail/2295813",
-          "source": "财联社热门",
+          "title": "伊朗",
+          "url": "https://s.weibo.com/weibo?q=%E4%BC%8A%E6%9C%97&t=31&band_rank=12&Refer=top",
+          "source": "微博",
           "ranks": [
-            11,
-            6,
-            7
+            12,
+            27
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[17时45分 ~ 19时38分]"
+          "time_info": "[19时37分 ~ 20时57分]"
         },
         {
           "title": "伊朗外交部证实，伊朗代表团和外长已抵达日内瓦。",
@@ -171,17 +195,6 @@
           "time_info": "[03时53分 ~ 04时32分]"
         },
         {
-          "title": "伊朗",
-          "url": "https://s.weibo.com/weibo?q=%E4%BC%8A%E6%9C%97&t=31&band_rank=12&Refer=top",
-          "source": "微博",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时37分 ~ 19时38分]"
-        },
-        {
           "title": "美财政部发布涉伊朗最新制裁名单",
           "url": "https://wallstreetcn.com/livenews/3059047",
           "source": "华尔街见闻-快讯",
@@ -204,6 +217,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时44分 ~ 17时45分]"
+        },
+        {
+          "title": "中国是否会与俄罗斯一道支持伊朗抵御美国侵略？外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32653060",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时56分 ~ 20时57分]"
         },
         {
           "title": "伊朗总统：以色列正在中东地区煽动战争，并在各国之间制造不和。",
@@ -316,6 +340,17 @@
           "time_info": "18时41分"
         },
         {
+          "title": "市场消息：伊朗-美国核谈判暂停，预计将在日内瓦时间下午晚些时候恢复。",
+          "url": "https://flash.jin10.com/detail/20260226201938260800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
+        },
+        {
           "title": "美政府官员被曝希望以色列率先袭击伊朗，后者报复后美国再行动，白宫回应",
           "url": "https://wallstreetcn.com/livenews/3059427",
           "source": "华尔街见闻-快讯",
@@ -336,6 +371,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时50分"
+        },
+        {
+          "title": "伊朗官员：若伊美谈判核心为伊朗不发展核武器 有望迅速达成协议",
+          "url": "https://wallstreetcn.com/livenews/3059554",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
         },
         {
           "title": "伊朗提出的核协议方案包括在伊朗境内进行“象征性的核浓缩”，用于研究目的，尽管美国要求伊朗放弃所有核浓缩活动。",
@@ -451,7 +497,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 26,
+      "match_count": 27,
       "titles": [
         {
           "title": "特朗普国情咨文：“关税提振了股市”，大型科技公司需自建电厂，应立法禁议员炒股",
@@ -520,8 +566,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时55分 ~ 19时38分]"
+          "appearance_count": 11,
+          "time_info": "[14时55分 ~ 20时57分]"
         },
         {
           "title": "梳理｜特朗普吹、民主党骂，回看美国史上最长国情咨文",
@@ -535,6 +581,19 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[16时42分 ~ 19时38分]"
+        },
+        {
+          "title": "特朗普白宫设宴，请美国男子冰球队吃麦当劳",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32658507",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时41分 ~ 20时57分]"
         },
         {
           "title": "阿斯顿马丁将裁员至多20%，来应对美国总统特朗普挑起的关税所造成的复杂形势。",
@@ -563,6 +622,17 @@
           "time_info": "[03时01分 ~ 04时32分]"
         },
         {
+          "title": "特朗普和泽连斯基通话30分钟，谈及俄乌冲突结束时间",
+          "url": "https://news.ifeng.com/c/8r3yuvat2ge",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时37分 ~ 20时57分]"
+        },
+        {
           "title": "美国总统特朗普与乌克兰总统泽连斯基通电话。（Axios）",
           "url": "https://wallstreetcn.com/livenews/3059016",
           "source": "华尔街见闻-快讯",
@@ -576,18 +646,6 @@
           "time_info": "[03时01分 ~ 04时32分]"
         },
         {
-          "title": "特朗普白宫设宴，请美国男子冰球队吃麦当劳",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32658507",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时41分 ~ 19时38分]"
-        },
-        {
           "title": "美国多州政府和企业：特朗普，退钱！",
           "url": "https://news.ifeng.com/c/8r3Sel2aFh4",
           "source": "凤凰网",
@@ -597,17 +655,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时13分 ~ 12时14分]"
-        },
-        {
-          "title": "特朗普和泽连斯基通话30分钟，谈及俄乌冲突结束时间",
-          "url": "https://news.ifeng.com/c/8r3yuvat2ge",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时37分 ~ 19时38分]"
         },
         {
           "title": "乌克兰总统泽连斯基：刚刚和美国总统特朗普通了电话。美国总统特使威特科夫和贾里德·库什纳也参加了通话。我们讨论了双方代表明天在日内瓦双边会晤中将要讨论的问题，以及三月初三方谈判团队全体会议的筹备工作。",
@@ -620,6 +667,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时32分 ~ 05时32分]"
+        },
+        {
+          "title": "特朗普威胁将教父饰演者驱逐出境",
+          "url": "https://www.toutiao.com/trending/7610586645797863478/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时56分 ~ 20时57分]"
         },
         {
           "title": "俄罗斯总统新闻秘书佩斯科夫：目前没有安排普京和特朗普之间的对话。",
@@ -769,8 +827,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[07时25分 ~ 19时38分]"
+          "appearance_count": 15,
+          "time_info": "[07时25分 ~ 20时57分]"
         },
         {
           "title": "静待英伟达财报，美股指高开，纳指涨幅扩大至1%，科技股普涨，现货黄金日内涨超1%",
@@ -1156,7 +1214,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时38分"
         },
@@ -1167,7 +1225,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时38分"
         }
